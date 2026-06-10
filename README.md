@@ -12,7 +12,6 @@ Let me introduce myself. My name is Yonz. I am a cyber forensic scientist and al
 </p>
 ### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sigit Hardiyanto 24&show_icons=true&theme=radium" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigit Hardiyanto 24&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SigitHardiyanto24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SigitHardiyanto24&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
